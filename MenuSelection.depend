@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1546422851 source:d:\sekolah\kuliah\alpro\tugas besar\menuselection\main.cpp
+	<iostream>
+	<conio.h>
+	<windows.h>
+	<cstdlib>
+	<dirent.h>
+	<sys/types.h>
+	<algorithm>
+	<string>
+	<vector>
+
